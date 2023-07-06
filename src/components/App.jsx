@@ -1,3 +1,7 @@
+// import React from 'react';
+import Feedback from './/Feedback/Feedback.js';
+import Welcome from './/Welcome/Welcome.js';
+
 export const App = () => {
   return (
     <div
@@ -10,7 +14,10 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      React homework template
+      <Feedback 
+      title = 'Please leave feedback'/>
+    
+    {/* <Welcome step={5} /> */}
     </div>
   );
 };
