@@ -1,6 +1,6 @@
 // import React from 'react';
 import Feedback from './/Feedback/Feedback.js';
-import Welcome from './/Welcome/Welcome.js';
+// import Welcome from './/Welcome/Welcome.js';
 
 export const App = () => {
   return (
