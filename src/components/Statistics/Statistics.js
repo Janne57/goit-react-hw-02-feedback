@@ -1,4 +1,4 @@
-import { Component } from 'react';
+// import { Component } from 'react';
 import PropTypes  from 'prop-types';
 import Notification from '../Notification/Notification.js';
 import css from './/Statistics.module.css';
